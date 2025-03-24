@@ -18,7 +18,7 @@ use Illuminate\Routing\Middleware\SubstituteBindings;
 use Illuminate\Session\Middleware\StartSession;
 use Illuminate\View\Middleware\ShareErrorsFromSession;
 
-class PanelProvider3 extends PanelProvider
+class 3PanelProvider extends PanelProvider
 {
     public
     function panel(Panel $panel): Panel
